@@ -1,0 +1,27 @@
+.page {
+  
+}
+
+.calculator {
+  background-color: gray;
+  display: flex;
+  flex-direction: column;
+  width: 205px;
+}
+
+.row {
+  display: flex;
+}
+
+.btn {
+  height: 40px;
+  width: 40px;
+  background-color: aqua;
+  margin: 5px;
+}
+
+.display {
+  background-color: aquamarine;
+  height: 50px;
+  
+}
