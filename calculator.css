@@ -18,10 +18,11 @@
   width: 40px;
   background-color: aqua;
   margin: 5px;
+  text-align: center;
 }
 
 .display {
   background-color: aquamarine;
   height: 50px;
-  
+  font-size: 30px;
 }
